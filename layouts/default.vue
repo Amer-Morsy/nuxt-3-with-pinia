@@ -5,7 +5,9 @@
         <h1>Adventure Store</h1>
       </nuxt-link>
       <nuxt-link to="/cart">
-        <h1>Cart</h1>
+        <span class="material-icons-outlined">
+          shopping_bag
+        </span>
       </nuxt-link>
     </header>
 
