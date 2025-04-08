@@ -1,13 +1,9 @@
 <template>
   <div>
-    <h2>Your basket</h2>
+    <h2 class="text-white text-2xl text-center my-8">Basket</h2>
   </div>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style  scoped>
-
-</style>
+<style scoped></style>
